@@ -1,0 +1,16 @@
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\bin\Debug\WFA_projLEDS.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\bin\Debug\WFA_projLEDS.pdb
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.Form1.resources
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.Properties.Resources.resources
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.csproj.GenerateResource.Cache
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.pdb
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\10. Aula10 (17-12-21)\Exercicio 17-12-21\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.Form1.resources
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\10. Aula10 (17-12-21)\Exercicio 17-12-21\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.Properties.Resources.resources
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\10. Aula10 (17-12-21)\Exercicio 17-12-21\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.csproj.GenerateResource.cache
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\10. Aula10 (17-12-21)\Exercicio 17-12-21\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.csproj.CoreCompileInputs.cache
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\10. Aula10 (17-12-21)\Exercicio 17-12-21\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.exe
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\10. Aula10 (17-12-21)\Exercicio 17-12-21\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.pdb
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\10. Aula10 (17-12-21)\Exercicio 17-12-21\WFA_projLEDS\WFA_projLEDS\bin\Debug\WFA_projLEDS.exe
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\10. Aula10 (17-12-21)\Exercicio 17-12-21\WFA_projLEDS\WFA_projLEDS\bin\Debug\WFA_projLEDS.pdb
+C:\Users\Vinny Nascimento\Desktop\IFSP\2° Semestre\Programacao de Computadores II (PRCA2)\10. Aula10 (17-12-21)\Exercicio 17-12-21\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.csproj.AssemblyReference.cache
